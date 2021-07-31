@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+#### About me
+동국대학교 체육교육과 15학번 김형준
+SSAFY 6기 광주캠퍼스
+
+개발자 공부중!
+
 <!--
 **kimhyeongjun95/kimhyeongjun95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
