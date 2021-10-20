@@ -7,7 +7,9 @@ SSAFY 6기 광주캠퍼스
 
 개발자 공부중!
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=twintinssk)](https://solved.ac/twintinssk/)
+<p align="right">
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=twintinssk)](https://solved.ac/twintinssk/)
+</p>
 <!--
 **kimhyeongjun95/kimhyeongjun95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
