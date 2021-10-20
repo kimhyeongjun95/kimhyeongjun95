@@ -7,7 +7,7 @@ SSAFY 6기 광주캠퍼스
 
 개발자 공부중!
 
-<p align="right">
+<p align="center">
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=twintinssk)](https://solved.ac/twintinssk/)
 </p>
 <!--
