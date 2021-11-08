@@ -3,7 +3,7 @@
 ## About
 - Majored in `Physical Education`
 - Graduated from `Dongguk University` 
-- `SSAFY`(Samsung Software Acdemy For Youth) 6th 2021.11.09 ~ now
+- `SSAFY`(Samsung Software Acdemy For Youth) 6th 2021.07.01 ~ NOW
 
 ## I use
 ![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
