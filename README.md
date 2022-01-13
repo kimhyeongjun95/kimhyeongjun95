@@ -1,8 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F9E4AA&height=250&section=header&text=Hyeongjun%20Kim&&fontColor=484848&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20💻&descAlignY=60&descAlign=67)
 
-## About
-- Majored in `Physical Education`
-- Graduated from `Dongguk University` 
+## About 
 - `SSAFY`(Samsung Software Acdemy For Youth) 6th 2021.07.01 ~ NOW
 
 ## I use
