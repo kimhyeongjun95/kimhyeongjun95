@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F9E4AA&height=250&section=header&text=Hyeongjun%20Kim&&fontColor=484848&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20💻&descAlignY=60&descAlign=67)
 
 ## About 
+
+[Tistory Badge](https://img.shields.io/badge/Tech%20Blog-01A9DB?style=flat&logo=DPD&logoColor=white)](https://hjkim95.tistory.com/)
+- email : hjthelegend@naver.com
 - `SSAFY`(Samsung Software Acdemy For Youth) 6th 2021.07.01 ~ NOW
 
 ## I use
