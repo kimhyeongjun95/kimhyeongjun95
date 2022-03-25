@@ -2,7 +2,7 @@
 
 ## About 
 
-[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-01A9DB?style=flat&logo=DPD&logoColor=white)](https://glory-summer.tistory.com/)
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-01A9DB?style=flat&logo=DPD&logoColor=white)](https://hjkim95.tistory.com/)
 - email : hjthelegend@naver.com
 - `SSAFY`(Samsung Software Acdemy For Youth) 6th 2021.07.01 ~ NOW
 
