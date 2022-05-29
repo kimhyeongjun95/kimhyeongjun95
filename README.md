@@ -4,6 +4,7 @@
 
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-01A9DB?style=flat&logo=DPD&logoColor=white)](https://hjkim95.tistory.com/)
 - Email : hjthelegend@naver.com
+- [Resume](https://eight-pincushion-162.notion.site/Kim-Hyeongjun-8e44adffdde24a7685ed214b46a73074)
 - Majored in `Physical Education` 
 - `SSAFY`(Samsung Software Acdemy For Youth) 6th 2021.07.01 ~ NOW
 
