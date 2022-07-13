@@ -8,7 +8,6 @@
 - [Resume](https://c11.kr/kimhyeongjun-notion)
 - [Tech Blog](https://hjkim95.tistory.com/)
 - Email : hjthelegend@naver.com
-- `SSAFY`(Samsung Software Acdemy For Youth) 6th 2021.07.01 ~ NOW
 
 ## I use
 ![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
