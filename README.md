@@ -1,7 +1,4 @@
-# 김형준 *Kim Hyeongjun*
-
 - FE Developer
-- Dongguk Univ. Physical Education
 
 <hr />
 
