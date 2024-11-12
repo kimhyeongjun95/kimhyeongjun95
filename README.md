@@ -2,6 +2,10 @@
 
 <hr />
 
+- [Resume](https://kimhyeongjun.notion.site/Kim-Hyeongjun-0651a0629acd4d9486f0ccdac838a2f5)
+- [Tech Blog](https://hjkim95.tistory.com/)
+- Email : hjthelegend@naver.com
+
 ## I use
 ![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
