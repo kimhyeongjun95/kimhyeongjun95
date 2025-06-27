@@ -2,7 +2,6 @@
 
 <hr />
 
-- [Resume](https://kimhyeongjun.notion.site/Kim-Hyeongjun-0651a0629acd4d9486f0ccdac838a2f5)
 - [Tech Blog](https://hjkim95.tistory.com/)
 
 ## I use
